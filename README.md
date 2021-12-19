@@ -1,7 +1,7 @@
 ### Hi guys!  I'm Hosana Ferreira 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-💻Estudante  de  TI
+-
 
 <div align="center">
   <a href="https://github.com/hosanasf">
